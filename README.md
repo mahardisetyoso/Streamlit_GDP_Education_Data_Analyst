@@ -17,7 +17,7 @@ Dashboard interaktif berbasis Streamlit yang menganalisis:
 - 🔗 [LinkedIn](https://www.linkedin.com/feed/)
 - 💻 [GitHub](https://github.com/mahardisetyoso?tab=repositories)
 - 🌐 [Portofolio Web](https://mahardisetyoso.github.io/data-portofolio-hardy/)
-
+- [Demo App ](https://gdp-edu-id-data-portfolio.streamlit.app/)
 ## 🛠️ Cara Menjalankan
 
 1. Clone repo ini
